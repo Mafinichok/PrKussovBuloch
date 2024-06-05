@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "861569860028",
+    "firebase_url": "https://prjkurshleb-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "prjkurshleb",
+    "storage_bucket": "prjkurshleb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861569860028:android:1f91904aad509d57596bb9",
+        "android_client_info": {
+          "package_name": "com.example.prkursachbulochnaya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7S1YttSOJlY47w6RBRsyo9uZgGg77JW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861569860028:android:320129f893576995596bb9",
+        "android_client_info": {
+          "package_name": "com.example.prkussovbuloch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7S1YttSOJlY47w6RBRsyo9uZgGg77JW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861569860028:android:ea0a3d76072a9d5b596bb9",
+        "android_client_info": {
+          "package_name": "com.example.rrojectkrbulochnaya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7S1YttSOJlY47w6RBRsyo9uZgGg77JW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
